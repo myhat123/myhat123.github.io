@@ -92,4 +92,7 @@ section {
 .fa {
   color: grey;
 }
-  
+
+.core {
+  border-bottom: 2px solid #3498db;
+}
